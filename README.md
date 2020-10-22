@@ -30,3 +30,7 @@
 <h1>Description: </h1>
 
 <img src="screenshot/4.jpg" height="700">
+
+<h1>Notes: </h1>
+
+This is a another version of my Alcohol Recipe.
